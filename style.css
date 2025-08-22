@@ -1,0 +1,12 @@
+body {font-family: Arial, sans-serif; margin: 0;
+background-color: aquamarine;
+}
+header {background: #19550a; color: white; padding: 10px;}
+nav a {color: white; margin: 0 5px; text-decoration: none;}
+main {padding: 15px;}
+h2 {color: blue;}
+ul {margin-left: 20px;}
+#i love{
+    text-align: center;
+    font-size: 10px;
+}
